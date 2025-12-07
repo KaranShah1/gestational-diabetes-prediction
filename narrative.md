@@ -1,6 +1,6 @@
 # 1. Introduction
 
-For the Machine Learning Project, we have collaborated with, a Kentucky-based startup dedicated to advancing healthcare solutions. Currently, the conventional practice involves physicians assessing gestational diabetes in pregnant women around week 20 of their pregnancy. Unfortunately, by this point, the diagnosis is already confirmed, with no chance of reversal. In response to this challenge, start-up(Cannot Name) is actively engaged in developing an AI/ML-based prognostic method for gestational diabetes, specifically emphasizing risk stratification.
+For the Machine Learning Project, we have collaborated with, a Kentucky-based startup dedicated to advancing healthcare solutions. Currently, the conventional practice involves physicians assessing gestational diabetes in pregnant women around week 20 of their pregnancy. Unfortunately, by this point, the diagnosis is already confirmed, with no chance of reversal. In response to this challenge, startup(Cannot Name due to privacy concerns) is actively engaged in developing an AI/ML-based prognostic method for gestational diabetes, specifically emphasizing risk stratification.
 
 The proposed algorithm takes into account various parameters, including age, socioeconomic status, prior perinatal health conditions, current and past health conditions, Medicaid claims data, and more. The objective is to identify pregnant women at a heightened risk for gestational diabetes, with notable indicators such as rapid or unusual weight gain during the first or early second trimesters. Subsequently, the AI/ML model will execute risk stratification and scoring.
 
@@ -9,7 +9,7 @@ This innovative approach enables early intervention and targeted care for women 
 
 
 # 2. Methodology
-In the initial phase of our study, we delved into the Fetal Life Dataset, comprising 26 sheets and 60827 rows. After isolating the pertinent 16 columns for our analysis, we encountered a significant imbalance in the data, with 60795 instances (99.95%) classified as False and only 31 instances (0.05%) as True. Consequently, recognizing the need for a more balanced dataset, we transitioned to a similar dataset available on Kaggle.
+In the initial phase of our study, we delved into the startup Dataset, comprising 26 sheets and 60827 rows. After isolating the pertinent 16 columns for our analysis, we encountered a significant imbalance in the data, with 60795 instances (99.95%) classified as False and only 31 instances (0.05%) as True. Consequently, recognizing the need for a more balanced dataset, we transitioned to a similar dataset available on Kaggle.
 
 ![image](https://github.com/IST407-707/707-group-project-KaranShah1/assets/65769054/f7e360bf-c901-4a44-8d5e-27c1a3f0bfce)
 
